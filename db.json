@@ -1,20 +1,81 @@
 {
     "users" : [
-        {
-            "name" : "Иван",
-            "username" : "Ivan"
-        },
-        {
-            "name" : "Василий",
-            "username" : "Vasilii"
-        },
-        {
-            "name" : "Олег",
-            "username" : "Oleg"
-        },
-        {
-            "name" : "Виктор",
-            "username" : "Victor"
-        }
-    ]
+       {
+    "username": "Hallie",
+    "name": "Sophie Camacho",
+    "company": [
+      {
+        "name": "PLAYCE",
+        "bs": "xxx",
+        "catchPhrase": "Sint aliqua proident consequat occaecat reprehenderit cillum Lorem incididunt qui commodo proident commodo. Sit deserunt consequat duis consectetur aliquip voluptate id nostrud exercitation exercitation. Voluptate eiusmod esse deserunt sunt.\r\n"
+      }
+    ],
+    "email": "sophiecamacho@playce.com",
+    "phone": "+7 (869) 494-3404",
+    "website": "www.DIGIGENE.com",
+    "address": "Navy Walk"
+  },
+  {
+    "username": "Ida",
+    "name": "Marta Leblanc",
+    "company": [
+      {
+        "name": "NAMEBOX",
+        "bs": "xxx",
+        "catchPhrase": "Aute officia aute quis cupidatat aliqua anim. Nostrud esse aute excepteur occaecat voluptate aute irure do reprehenderit. Aliqua sit ad aute velit culpa cupidatat amet reprehenderit veniam esse amet cupidatat pariatur consequat. Consectetur aliquip esse occaecat ad sunt eu esse non non.\r\n"
+      }
+    ],
+    "email": "martaleblanc@namebox.com",
+    "phone": "+7 (879) 588-2875",
+    "website": "www.UNDERTAP.com",
+    "address": "Albany Avenue"
+  },
+  {
+    "username": "Martina",
+    "name": "Cleveland Barry",
+    "company": [
+      {
+        "name": "POLARIUM",
+        "bs": "xxx",
+        "catchPhrase": "Magna et anim laborum esse proident culpa mollit magna. Proident ea ipsum veniam adipisicing est pariatur dolore nulla nisi proident minim eiusmod. Mollit veniam anim eiusmod eiusmod sit laboris cillum dolor duis pariatur anim tempor.\r\n"
+      }
+    ],
+    "email": "clevelandbarry@polarium.com",
+    "phone": "+7 (988) 493-3105",
+    "website": "www.ZENTURY.com",
+    "address": "Boerum Place"
+  },
+  {
+    "username": "Hewitt",
+    "name": "Mariana Duran",
+    "company": [
+      {
+        "name": "SENSATE",
+        "bs": "xxx",
+        "catchPhrase": "Aliqua ex ea in irure. Minim ipsum sint velit officia et ex veniam duis minim labore labore. Nostrud id veniam elit duis ut laborum duis velit excepteur ad aute veniam incididunt. Eu enim est sunt velit esse occaecat enim veniam tempor consequat excepteur. Fugiat quis sit excepteur elit veniam nostrud do velit et ea do fugiat ex. Reprehenderit laboris laborum anim pariatur proident ea sint. Minim ea excepteur anim in mollit qui aliqua non sunt aute ullamco adipisicing.\r\n"
+      }
+    ],
+    "email": "marianaduran@sensate.com",
+    "phone": "+7 (871) 585-2843",
+    "website": "www.ZILLACTIC.com",
+    "address": "Estate Road"
+  },
+  {
+    "username": "Ann",
+    "name": "Parsons Joyce",
+    "company": [
+      {
+        "name": "JUNIPOOR",
+        "bs": "xxx",
+        "catchPhrase": "Velit incididunt magna Lorem occaecat. Consequat laborum minim cillum eu duis Lorem. Sint consectetur quis nostrud nisi consequat aute non quis cillum sint voluptate est anim. Elit enim nisi Lorem excepteur. Magna esse id ut enim aute adipisicing eu nostrud.\r\n"
+      }
+    ],
+    "email": "parsonsjoyce@junipoor.com",
+    "phone": "+7 (832) 448-2413",
+    "website": "www.XPLOR.com",
+    "address": "Banner Avenue"
+  }
+    ],
+    
+    
 }
