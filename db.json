@@ -3,13 +3,13 @@
   {
     "username": "Hallie",
     "name": "Sophie Camacho",
-    "company": [
+    "company": 
       {
         "name": "PLAYCE",
         "bs": "xxx",
         "catchPhrase": "Sint aliqua proident consequat occaecat reprehenderit cillum Lorem incididunt qui commodo proident commodo. Sit deserunt consequat duis consectetur aliquip voluptate id nostrud exercitation exercitation. Voluptate eiusmod esse deserunt sunt.\r\n"
       }
-    ],
+    ,
     "email": "sophiecamacho@playce.com",
     "phone": "+7 (869) 494-3404",
     "website": "www.DIGIGENE.com",
@@ -18,13 +18,13 @@
         {
     "username": "Ida",
     "name": "Marta Leblanc",
-    "company": [
+    "company": 
       {
         "name": "NAMEBOX",
         "bs": "xxx",
         "catchPhrase": "Aute officia aute quis cupidatat aliqua anim. Nostrud esse aute excepteur occaecat voluptate aute irure do reprehenderit. Aliqua sit ad aute velit culpa cupidatat amet reprehenderit veniam esse amet cupidatat pariatur consequat. Consectetur aliquip esse occaecat ad sunt eu esse non non.\r\n"
       }
-    ],
+    ,
     "email": "martaleblanc@namebox.com",
     "phone": "+7 (879) 588-2875",
     "website": "www.UNDERTAP.com",
